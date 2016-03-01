@@ -1,0 +1,26 @@
+.navbar{
+    background-color: #3367ff;
+    
+}
+.navbar-default .navbar-brand{
+    color: #ffffff ;
+    font-weight: 200;
+}
+.btn-default {
+    background-color:#3367ff;
+    color:  #ffffff;
+}
+.data{
+    border: 1px solid #ccc;
+    border-radius: 0px;
+}
+.effect1{
+    -webkit-box-shadow: 0 5px 6px 3px #777;
+       -moz-box-shadow: 0 5px 6px 3px #777;
+            box-shadow: 0 5px 6px 3px #777;
+}
+body{
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
